@@ -1,4 +1,4 @@
-                    --------------Welcome to Lexicon generator-----------------
+                    #--------------Welcome to Lexicon generator-----------------#
 main.py  -- this is a summerized inference code implementation
 app.py   -- this is a complete flask app and an api to generete lexicons
 	    # Web App
